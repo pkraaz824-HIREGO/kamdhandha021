@@ -1,0 +1,10 @@
+node_modules
+.next
+.git
+*.md
+BUILD_SUMMARY.md
+COMPONENT_DOCS.md
+PAGES_REFERENCE.md
+PROJECT_INDEX.md
+QUICKSTART.md
+SETUP_GUIDE.md
