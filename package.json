@@ -1,0 +1,31 @@
+{
+  "name": "hirego-next-linkedin",
+  "version": "1.0.0",
+  "description": "Next LinkedIn 2.0 with HireGo AI Features",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.263.1",
+    "framer-motion": "^10.16.4",
+    "zustand": "^4.4.1",
+    "axios": "^1.6.0",
+    "tailwindcss": "^3.3.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "@types/node": "^20.5.0",
+    "@types/react": "^18.2.20",
+    "@types/react-dom": "^18.2.7",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.28",
+    "eslint": "^8.48.0",
+    "eslint-config-next": "^15.0.0"
+  }
+}
