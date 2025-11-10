@@ -1,4 +1,4 @@
-# HireGo - Next LinkedIn 2.0 with AI-Powered Hiring
+# HireGo - with AI-Powered Hiring
 
 A modern, full-featured professional networking and instant hiring platform combining LinkedIn's powerful networking with cutting-edge AI recruitment technology.
 
